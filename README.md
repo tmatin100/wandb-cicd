@@ -5,6 +5,10 @@ This repo contains code accompanying W&B CI/CD for Machine Learning (GitOps) cou
  You can find Github Actions Events that trigger workflows
 [here](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows). 
 
+GitHub Actions Special Variables: [here](https://docs.github.com/en/actions/learn-github-actions/variables#default-environment-variables)
+
+GitHub Actions Expressions: [here](https://docs.github.com/en/actions/learn-github-actions/expressions)
+
 ## What you'll learn in the course
 
 - Automate ML pipelines with GitHub Actions
