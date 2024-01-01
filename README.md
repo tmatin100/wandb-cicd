@@ -2,6 +2,9 @@
 
 This repo contains code accompanying W&B CI/CD for Machine Learning (GitOps) course. You can sign up for free [here](https://www.wandb.courses/courses/ci-cd-for-machine-learning). 
 
+### Github Actions Events that trigger workflows
+[here](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows). 
+
 ## What you'll learn in the course
 
 - Automate ML pipelines with GitHub Actions
