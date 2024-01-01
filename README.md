@@ -9,6 +9,8 @@ GitHub Actions Special Variables: [here](https://docs.github.com/en/actions/lear
 
 GitHub Actions Expressions: [here](https://docs.github.com/en/actions/learn-github-actions/expressions)
 
+Defining outputs for jobs: https://docs.github.com/en/actions/using-jobs/defining-outputs-for-jobs
+
 ## What you'll learn in the course
 
 - Automate ML pipelines with GitHub Actions
