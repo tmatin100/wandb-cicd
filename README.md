@@ -28,6 +28,10 @@ Advanced GitHub Code Search Beta: https://github.com/features/code-search
 
 Caching: https://github.com/actions/cache
 
+Python client: https://ghapi.fast.ai/
+
+JavaScript client: https://octokit.github.io/rest.js/ 
+
 ## What you'll learn in the course
 
 - Automate ML pipelines with GitHub Actions
