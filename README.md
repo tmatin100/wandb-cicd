@@ -11,6 +11,18 @@ GitHub Actions Expressions: [here](https://docs.github.com/en/actions/learn-gith
 
 Defining outputs for jobs: [here](https://docs.github.com/en/actions/using-jobs/defining-outputs-for-jobs)
 
+pytest book: https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680508601
+
+Mamba: https://github.com/mamba-org/provision-with-micromamba
+
+Setup Python: https://github.com/actions/setup-python
+
+Checkout: https://github.com/actions/checkout
+
+Caching: https://github.com/actions/cache
+
+Advanced GitHub Code Search Beta: https://github.com/features/code-search
+
 ## What you'll learn in the course
 
 - Automate ML pipelines with GitHub Actions
