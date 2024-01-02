@@ -43,4 +43,5 @@ ghapi blog post: https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-pa
 
 ghapi docs: https://ghapi.fast.ai/
 
+octokit/rest.js docs: https://octokit.github.io/rest.js/ 
 
