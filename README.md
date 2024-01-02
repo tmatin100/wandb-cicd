@@ -2,7 +2,7 @@
 
 This repo contains code accompanying W&B CI/CD for Machine Learning (GitOps) course. You can sign up for free [here](https://www.wandb.courses/courses/ci-cd-for-machine-learning). 
 
-## What we will ll do in this repo: 
+## What we'll ll do in this repo: 
 - Automate ML pipelines with GitHub Actions
 - Automate testing for your ML code
 - Implement branch protection rules
