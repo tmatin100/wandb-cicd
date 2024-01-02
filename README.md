@@ -32,6 +32,10 @@ Python client: https://ghapi.fast.ai/
 
 JavaScript client: https://octokit.github.io/rest.js/ 
 
+ghapi blog post: https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/
+
+ghapi docs: https://ghapi.fast.ai/
+
 ## What you'll learn in the course
 
 - Automate ML pipelines with GitHub Actions
