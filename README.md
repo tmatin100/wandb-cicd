@@ -47,3 +47,4 @@ octokit/rest.js docs: https://octokit.github.io/rest.js/
 
 W&B MLOps Model Development Course: https://www.wandb.courses/courses/effective-mlops-model-development
 
+Weights & Biases Docs: https://docs.wandb.ai/
