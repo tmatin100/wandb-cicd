@@ -12,7 +12,7 @@ def get_baseline_run(entity='tmatin100', project='my-report-project', tag='basel
     return runs[0]
 
 
-def compare_runs(entity='hamelsmu',
+def compare_runs(entity='tmatin100',
                  project='cicd_demo',
                  tag='baseline',
                  run_id=None):
