@@ -13,7 +13,7 @@ def get_baseline_run(entity='tmatin100', project='my-report-project', tag='basel
 
 
 def compare_runs(entity='tmatin100',
-                 project='cicd_demo',
+                 project='mlops-course-001',
                  tag='baseline',
                  run_id=None):
     "Compare the current run to the baseline run."
